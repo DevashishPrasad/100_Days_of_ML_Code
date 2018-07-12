@@ -20,3 +20,11 @@ I have been working on Machine learning from last few weeks. And I came across t
 ***Today's progress*** : Fixed the error in linear regression<br>
 ***Thoughts*** : Today I fixed the error in my linear regression code. The error was very minute mistake in the formula of gradient descent. I also saw next videos in series of Andrew NG. He explained linear regression in other way. He also explained gradient descent. And now i can say that i have a better understanding of the algorithm. I need to focus and learn more about calculus to be perfect in gradient descent. Later in his video series he started with Linear algebra. I already knew about basics of it so watched a couple of videos in 1.75x speed. Tomorrow I will start will next chapter from book "Data Science from scratch - first principles" by Joel Grus.<br>
 ***Link to work*** : [linear regression error fixed](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Linear-regression)
+
+## Day 4
+## (11th July 2018 IST 16:20)
+***Today's progress*** : Started with Linear Regression with multiple variables<br>
+***Thoughts*** : Today I fininshed the basics linear algebra such as - Matrices and Vectors, Addition and Multiplication, Inverse and Transpose. I also started with Linear regression with multple variables or multiple features. Andrew NG explained the difference between both algorithms.<br>
+We get our new function as - h(x) = t0 + t1x1 + t2x2 + ..... + tnxn (Where n us number of features). I also learnt about optimization of our new function. The new gradient descent algorithm which is derivative of cost function is repeated till the convergence for all values of ti (Where i is the index of a feature).<br>
+Inorder to optimize the gradient descent for our algorithm we make sure that our features lie on the same scale. This is known as feature scaling. For eg - we have two features as  x1 = size( 0 - 2000 ) feet and x2 = num_of_rooms (1 - 5). So, we can scale these features as x1= size()/2000 therefore, 0 <= x1 <= 1 and x2 = num_of_rooms()/5 therefore, 0 <= x2 <= 1. In this way, our gradient descent will converge faster.
+***Link to work*** : [linear regression with multiple variables](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Linear-Regression-with-multiple-variable)
