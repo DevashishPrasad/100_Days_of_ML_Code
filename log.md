@@ -56,4 +56,5 @@ Reinforcement Learning is a type of supervised learning with unlabelled dataset.
 3) Reward
 4) State
 5) Action<br>
+
 Letz take an example of a self driving car. Here, Car is the actor and Road is environment. Whether the car is moving or still describes the state of the car. When depending on the state and environment car does an action i.e. if there is green light on the signal car moves, then this is known as action. Based on action of the car(actor) we give it a reward. A reward can be positive or negative. For eg. if car moves when light is red is a false action so it gets a negative reward and car moves when light is green is a positive reward.
