@@ -39,3 +39,21 @@ Inorder to optimize the gradient descent for our algorithm we make sure that our
 ### (16th July 2018 IST 22:50)
 ***Today's progress*** : An alternative for gradient descent<br>
 ***Thoughts*** : Today I continued watching Andrew NG. I learnt about the normal equation used to minimizde the weights or the theta in the hypothesis equation of linear regression. The equation is **t = (XT * X)^-1 * XT * y (where XT = X Transpose)**. This equation has some pros and some cons. Advntages of this equation are <br>1) It does not require any learning rate<br>2) It does not require iterations.<br> Disadvantages of this equation are - <br> 1) It is unsuitable for large dataset<br>2) It fails when XT * X is non-invertible<br>I also learnt about a new language recommended by Andrew NG for machine learning "Octave". I installed Octave on my computer and performed basic opertaions such as Arithmetic operations, Using Matrices and Vectors, initializing matrices and vectors using inbuilt functions.<br>
+
+## Day 6
+### (16th July 2018 IST 22:50)
+***Today's progress*** : An alternative for gradient descent<br>
+***Thoughts*** : Today I continued watching Andrew NG. I learnt about the normal equation used to minimizde the weights or the theta in the hypothesis equation of linear regression. The equation is **t = (XT * X)^-1 * XT * y (where XT = X Transpose)**. This equation has some pros and some cons. Advntages of this equation are <br>1) It does not require any learning rate<br>2) It does not require iterations.<br> Disadvantages of this equation are - <br> 1) It is unsuitable for large dataset<br>2) It fails when XT * X is non-invertible<br>I also learnt about a new language recommended by Andrew NG for machine learning "Octave". I installed Octave on my computer and performed basic opertaions such as Arithmetic operations, Using Matrices and Vectors, initializing matrices and vectors using inbuilt functions.<br>
+
+## Day 7
+### (17th July 2018 IST 22:23)
+***Today's progress*** : Octave, logistic regression and reinforcement learning<br>
+***Thoughts*** : Today I continued watching Andrew NG. I have now finished watching 32 videos. I learnt about the octave language for ML. I learnt how to move data around like sizing, loading, saving and clearing data. I also learnt about slicing arrays and matrics in octave like we do in Numpy. Computing data is easier in octave. We can use functions like - abs(), max(), log(), exp(), sum(), floor(), ceil(), pinv() etc. We can also plot data in octave using some functions like - plot(), xlabel(), ylabel(), figure(), subplot() and axis(). I feel like octave is a bit complex and I am more familiar with Python. So from now onwards I am convinced that python is the best language for machine learning. Numpy is a great library for performing linear algebra calculations and Matplotlib is great for  visualizing data. So I am done with Octave.<br>
+About Logistic regression I have an introductory knowlege. I learnt that this algorithm is used for classification. Andrew also proves that classification is possible using linear regression but it will fail often. So, best algorithm for classificatio is Logistic regression. Classification is chosen or practiced when we have data with y = 1 or 0. This can be Yes or No, True or False, Red or Blue and what not. We can also use Logistic regression for multi class classification where y can be {0 or 1 or 2 or ... n}. It is again, a type of supervised learning.
+Reinforcement Learning is a type of supervised learning with unlabelled dataset. It has 5 elements -
+1) Actor
+2) Environment
+3) Reward
+4) State
+5) Action
+Letz take an example of a self driving car. Here, Car is the actor and Road is environment. Whether the car is moving or still describes the state of the car. When depending on the state and environment car does an action i.e. if there is green light on the signal car moves, then this is known as action. Based on action of the car(actor) we give it a reward. A reward can be positive or negative. For eg. if car moves when light is red is a false action so it gets a negative reward and car moves when light is green is a positive reward.
