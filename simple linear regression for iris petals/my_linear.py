@@ -19,7 +19,7 @@ def runner(m_current, b_current, alpha, iterations, x, y):
 
         for j in range(N):
             cost += ( y[j] - (m_current * x[j] + b_current) ) ** 2
-        print("loss = " + cost)
+        print("loss = " + str(cost))
     return m_current, b_current, cost/N
 
 df = pd.read_excel("data.xls")
