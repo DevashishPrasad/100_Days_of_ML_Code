@@ -67,4 +67,15 @@ Once i was able to successfully grab the data. I used matplotlib to visualize it
 
 <img src="images/img1.jpg" alt="picture not available"/>
 
-**Link to work *** : [simple linear regression or iris petals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/simple%20linear%20regression%20for%20iris%20petals)
+***Link to work *** : [simple linear regression or iris petals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/simple%20linear%20regression%20for%20iris%20petals)
+
+## Day 9
+### (19th July 2018 IST 23:57)
+***Today's progress*** : Linear regression from scratch<br>
+***Thoughts*** : Today I implemented linear-regression model for iris petal dataset from scratch using gradient descent. I took data from xls file through pandas dataframe. Then implemented gradient descent partial derivatives formulae and minized the values of m and c (b) of the equation y = mx + c. <br>
+I finally plotted both the dataset and the line on a chart to visualize the results<br>
+Encountered lot of errors... and solved each one of them
+<br>
+<img src="images/img2.jpg" alt="picture not available"/>
+
+***Link to work *** : [simple linear regression or iris petals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/simple%20linear%20regression%20for%20iris%20petals/my_linear.py)
