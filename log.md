@@ -65,7 +65,7 @@ Letz take an example of a self driving car. Here, Car is the actor and Road is e
 ***Thoughts*** : Today I continued watching Andrew NG. I learnt more about logistic regression. I learnt that we need to use log functions as cost functions for logistic regression. I also learnt about the decision boundaries. Then I decided to practice my own linear regression fro scratch. I started searching for datasets and found the iris petal dataset perfect for simple linear regression. I downloaded it in the form of .xls file. I then used Pandas dataframe to fetch the data can convert it into the numpy arrays. I successfully did it. I aslo watched a tutorial on Pandas library. I learnt to fetch data from various formats such as csv, xml, dict, json etc. I was also able to now use the basic functions such as max(), min(), abs(), describe etc. <br>
 Once i was able to successfully grab the data. I used matplotlib to visualize it. I used scatter plot to visualize it.
 
-<img src="images/img1.jpg" alt="picture not available"/>
+<img src="images/img1.png" alt="picture not available"/>
 
 ***Link to work*** : [simple linear regression or iris setosa sepals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/simple%20linear%20regression%20for%20iris%20petals)
 
@@ -76,6 +76,6 @@ Once i was able to successfully grab the data. I used matplotlib to visualize it
 I finally plotted both the dataset and the line on a chart to visualize the results<br>
 Encountered lot of errors... and solved each one of them
 <br>
-<img src="images/img2.jpg" alt="picture not available"/>
+<img src="images/img2.png" alt="picture not available"/>
 
 ***Link to work*** : [simple linear regression or iris setosa asepals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/simple%20linear%20regression%20for%20iris%20petals/my_linear.py)
