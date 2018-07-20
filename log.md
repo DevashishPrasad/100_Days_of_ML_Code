@@ -78,4 +78,4 @@ Encountered lot of errors... and solved each one of them
 <br>
 <img src="images/img2.png" alt="picture not available"/>
 
-***Link to work*** : [simple linear regression or iris setosa asepals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/simple%20linear%20regression%20for%20iris%20petals/my_linear.py)
+***Link to work*** : [simple linear regression or iris setosa sepals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/simple%20linear%20regression%20for%20iris%20petals/my_linear.py)
