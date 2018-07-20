@@ -67,7 +67,7 @@ Once i was able to successfully grab the data. I used matplotlib to visualize it
 
 <img src="images/img1.jpg" alt="picture not available"/>
 
-***Link to work*** : [simple linear regression or iris petals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/simple%20linear%20regression%20for%20iris%20petals)
+***Link to work*** : [simple linear regression or iris setosa sepals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/simple%20linear%20regression%20for%20iris%20petals)
 
 ## Day 9
 ### (19th July 2018 IST 23:57)
@@ -78,4 +78,4 @@ Encountered lot of errors... and solved each one of them
 <br>
 <img src="images/img2.jpg" alt="picture not available"/>
 
-***Link to work*** : [simple linear regression or iris petals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/simple%20linear%20regression%20for%20iris%20petals/my_linear.py)
+***Link to work*** : [simple linear regression or iris setosa asepals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/simple%20linear%20regression%20for%20iris%20petals/my_linear.py)
