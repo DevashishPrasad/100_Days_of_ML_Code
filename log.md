@@ -40,11 +40,6 @@ Inorder to optimize the gradient descent for our algorithm we make sure that our
 ***Today's progress*** : An alternative for gradient descent<br>
 ***Thoughts*** : Today I continued watching Andrew NG. I learnt about the normal equation used to minimizde the weights or the theta in the hypothesis equation of linear regression. The equation is **t = (XT * X)^-1 * XT * y (where XT = X Transpose)**. This equation has some pros and some cons. Advntages of this equation are <br>1) It does not require any learning rate<br>2) It does not require iterations.<br> Disadvantages of this equation are - <br> 1) It is unsuitable for large dataset<br>2) It fails when XT * X is non-invertible<br>I also learnt about a new language recommended by Andrew NG for machine learning "Octave". I installed Octave on my computer and performed basic opertaions such as Arithmetic operations, Using Matrices and Vectors, initializing matrices and vectors using inbuilt functions.<br>
 
-## Day 6
-### (16th July 2018 IST 22:50)
-***Today's progress*** : An alternative for gradient descent<br>
-***Thoughts*** : Today I continued watching Andrew NG. I learnt about the normal equation used to minimizde the weights or the theta in the hypothesis equation of linear regression. The equation is **t = (XT * X)^-1 * XT * y (where XT = X Transpose)**. This equation has some pros and some cons. Advntages of this equation are <br>1) It does not require any learning rate<br>2) It does not require iterations.<br> Disadvantages of this equation are - <br> 1) It is unsuitable for large dataset<br>2) It fails when XT * X is non-invertible<br>I also learnt about a new language recommended by Andrew NG for machine learning "Octave". I installed Octave on my computer and performed basic opertaions such as Arithmetic operations, Using Matrices and Vectors, initializing matrices and vectors using inbuilt functions.<br>
-
 ## Day 7
 ### (17th July 2018 IST 22:23)
 ***Today's progress*** : Octave, logistic regression and reinforcement learning<br>
@@ -83,5 +78,5 @@ Encountered lot of errors... and solved each one of them
 ## Day 10
 ### (20th July 2018 IST 23:59)
 ***Today's progress*** : Multiple Linear regression from scratch<br>
-***Thoughts*** : Today I read a couple of articles about multiple linear regression. I find it confusing and challenging. I also saw couple of videos which therotically explains how to implement it. I also gathered dataset to work upon. The dataset is systolic blood pressure prediction using agae and weight of patient. Todya i am successfull in taking data in python code from .xls file through pandas. 
+***Thoughts*** : Today I read a couple of articles about multiple linear regression. I find it confusing and challenging. I also saw couple of videos which therotically explains how to implement it. I also gathered dataset to work upon. The dataset is systolic blood pressure prediction using agae and weight of patient. Todya i am successfull in taking data in python code from .xls file through pandas.<br> 
 ***Link to work*** : [multiple linear regression](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Linear-Regression-with-multiple-variable)
