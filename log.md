@@ -78,5 +78,5 @@ Encountered lot of errors... and solved each one of them
 ## Day 10
 ### (20th July 2018 IST 23:59)
 ***Today's progress*** : Multiple Linear regression from scratch<br>
-***Thoughts*** : Today I read a couple of articles about multiple linear regression. I find it confusing and challenging. I also saw couple of videos which therotically explains how to implement it. I also gathered dataset to work upon. The dataset is systolic blood pressure prediction using agae and weight of patient. Todya i am successfull in taking data in python code from .xls file through pandas.<br> 
+***Thoughts*** : Today I read a couple of articles about multiple linear regression. I find it confusing and challenging. I also saw couple of videos which therotically explains how to implement it. I also gathered dataset to work upon. The dataset is systolic blood pressure prediction using age and weight of patient. Today i am successfull in taking data in python code from .xls file through pandas.<br> 
 ***Link to work*** : [multiple linear regression](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Linear-Regression-with-multiple-variable)
