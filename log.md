@@ -79,3 +79,9 @@ Encountered lot of errors... and solved each one of them
 <img src="images/img2.png" alt="picture not available"/>
 
 ***Link to work*** : [simple linear regression or iris setosa sepals](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/simple%20linear%20regression%20for%20iris%20petals/my_linear.py)
+
+## Day 10
+### (20th July 2018 IST 23:59)
+***Today's progress*** : Multiple Linear regression from scratch<br>
+***Thoughts*** : Today I read a couple of articles about multiple linear regression. I find it confusing and challenging. I also saw couple of videos which therotically explains how to implement it. I also gathered dataset to work upon. The dataset is systolic blood pressure prediction using agae and weight of patient. Todya i am successfull in taking data in python code from .xls file through pandas. 
+***Link to work*** : [multiple linear regression](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Linear-Regression-with-multiple-variable)
