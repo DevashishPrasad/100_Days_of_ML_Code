@@ -80,3 +80,11 @@ Encountered lot of errors... and solved each one of them
 ***Today's progress*** : Multiple Linear regression from scratch<br>
 ***Thoughts*** : Today I read a couple of articles about multiple linear regression. I find it confusing and challenging. I also saw couple of videos which therotically explains how to implement it. I also gathered dataset to work upon. The dataset is systolic blood pressure prediction using age and weight of patient. Today i am successfull in taking data in python code from .xls file through pandas.<br> 
 ***Link to work*** : [multiple linear regression](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Linear-Regression-with-multiple-variable)
+
+## Day 11
+### (23th July 2018 IST 23:59)
+***Today's progress*** : Multiple Linear regression from scratch<br>
+***Thoughts*** : Today I visualized the data I gathered about systolic blood pressure in a 3d scatter plot. I checked for the collinearity of the dataset and found a strong one. I then started to implement linear regression with multiple variables from scratch. I am successful in bringing the data but i am facing an error in the gradient descent part. I need to study the algorithm more deeply and figure out what is the exact issue. Here is the visualizarion - <br>
+<img src="images/check.png" alt="picture not available"/>
+
+***Link to work*** : [multiple linear regression](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Linear-Regression-with-multiple-variable)
