@@ -1,18 +1,18 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 def runner(x, y, b, alpha, iterations):
     N = len(x1)
+    cost = []
+    loss = 0
     for i in range(iterations):
         loss = (b.T.dot(x)) - y
-        gradient = (x.T.dot(loss)) / N   
+        gradient = (x.dot(loss.T)) / N   
         b = b - alpha * gradient
-        cost = ((b.T.dot(x) - y) ** 2)/(N * 2)
+        cost = np.sum(np.power(loss,2))/(N * 2)
+        print("STEP " + str(i) + " : cost - " + str(cost))
     return b, cost
     
-
-
 df = pd.read_excel("data.xls")
 
 x1 = np.array(df.X2)
@@ -22,13 +22,10 @@ x0 = np.ones(N)
 x = np.array([x0,x1,x2])
 y = np.array(df.X1)
 
-# our hypothesis function will be
-# y = bT.x
-
 b = np.matrix([[0],[0],[0]])
 print(b.shape)
-alpha = 0.01
-iterations = 1000
+alpha = 0.00001
+iterations = 1000000
 
 b, cost = runner(x, y, b, alpha, iterations)
 
