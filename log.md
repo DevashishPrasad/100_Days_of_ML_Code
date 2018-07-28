@@ -94,3 +94,14 @@ Encountered lot of errors... and solved each one of them
 ***Today's progress*** : Multiple Linear regression from scratch error fixed<br>
 ***Thoughts*** : Today I solved the error from my code for multiple linear regression. It was mistake in the shapes of matrices while taking their dot product. The model predicted the systolic blood pressure when given age and weight as input with good enough accuracy. I successfully completed the algorithm from scratch using gradient descent. Now, I am on my way to implement logistic regression from scratch. I am clear with the concept and loss function. I just need to find a dataset and start working on it.<br>
 ***Link to work*** : [multiple linear regression done](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/Linear-Regression-with-multiple-variable/regression.py)
+
+## Day 13
+### (27th July 2018 IST 22:55)
+***Today's progress*** : Logistic regression<br>
+***Thoughts*** : Today I again saw videos of Andrew NG about logistic regression and on the way to implement it from scratch. I am now clear with its cost function and gradient descent optimization. I also came across the multi-class logistic regression. It is just an enhanced version of simple logistic regression.<br>
+
+## Day 14
+### (28th July 2018 IST 22:55)
+***Today's progress*** : Linear Algebra<br>
+***Thoughts*** : Today I saw linear algebra videos from MIT open courseware from prof. Gilbert stang. I learnt about matrices, spaces, rank and other concepts<br>
+*
