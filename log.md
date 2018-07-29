@@ -103,5 +103,11 @@ Encountered lot of errors... and solved each one of them
 ## Day 14
 ### (28th July 2018 IST 22:55)
 ***Today's progress*** : Linear Algebra<br>
-***Thoughts*** : Today I saw linear algebra videos from MIT open courseware from prof. Gilbert stang. I learnt about matrices, spaces, rank and other concepts<br>
-*
+***Thoughts*** : Today I saw linear algebra videos from MIT open courseware from prof. Gilbert stang. I learnt about matrices, spaces, rank and other concepts. Nothing else today<br>
+
+## Day 15
+### (29th July 2018 IST 22:40)
+***Today's progress*** : Logistic regression<br>
+***Thoughts*** : Today I spent most of my time to draw a line in 3d graph in matplotlib. I want to fit the exact line of prediction in my multiple regression model. I was not successful at it. I learnt how to draw a 3d line but was not able to generate the line through the equation (hypothesis)<br>
+I found a good data set for logistic regression. I will create a binary classifier from scratch with this dataset and then use the same for multi-class classification.<br>
+**Link to work*** : [Logistic regression dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/logistic%20regression)
