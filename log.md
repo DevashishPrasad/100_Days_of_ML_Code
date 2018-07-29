@@ -110,4 +110,4 @@ Encountered lot of errors... and solved each one of them
 ***Today's progress*** : Logistic regression<br>
 ***Thoughts*** : Today I spent most of my time to draw a line in 3d graph in matplotlib. I want to fit the exact line of prediction in my multiple regression model. I was not successful at it. I learnt how to draw a 3d line but was not able to generate the line through the equation (hypothesis)<br>
 I found a good data set for logistic regression. I will create a binary classifier from scratch with this dataset and then use the same for multi-class classification.<br>
-**Link to work*** : [Logistic regression dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/logistic%20regression)
+***Link to work*** : [Logistic regression dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/logistic%20regression)
