@@ -124,5 +124,5 @@ I found a good data set for logistic regression. I will create a binary classifi
 ### (1st August 2018 IST 20:20)
 ***Today's progress*** : Logistic regression data analyzation<br>
 ***Thoughts*** : Today I started the hour in a search of a good dataset. I thought I found a good dataset. Th dataset was about the calssification of breast cancer events. As usual I used pandas to read the data and matplotlib to visualize it. I randomly chose two features and used classified it in two classes. Then I plotted it on the scatter chart and still i did not find a good decision boundary. Here is the image of the dataset.<br>
-<img src="images/cancer"/><br>
+<img src="images/cancer.png"/><br>
 ***Link to work*** : [https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Logistic%20regression%20for%20breast%20cancer)
