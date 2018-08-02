@@ -117,12 +117,18 @@ I found a good data set for logistic regression. I will create a binary classifi
 ***Today's progress*** : Logistic regression data analyzation<br>
 ***Thoughts*** : Today I started to find decision boundaries between my dataset of house satisfaction rates. I read data from raw file using pandas. Then I filtered and cleaned the data. I usied matplotlib to draw two scatter plots for two classes respectively. But I dont see any decision boundry I can work on. I get all blue(2nd class) dots which overlap the first class data. So its a bad idea and a bad dataset and need to find a good dataset.<br>
 <img src="images/house.png"/><br>
-***Link to work*** : [Logistic regression dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Logistic%20Regression)
-
+***Link to work*** : [Logistic regression house dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Logistic%20Regression)
 
 ## Day 17
 ### (1st August 2018 IST 20:20)
 ***Today's progress*** : Logistic regression data analyzation<br>
 ***Thoughts*** : Today I started the hour in a search of a good dataset. I thought I found a good dataset. Th dataset was about the calssification of breast cancer events. As usual I used pandas to read the data and matplotlib to visualize it. I randomly chose two features and used classified it in two classes. Then I plotted it on the scatter chart and still i did not find a good decision boundary. Here is the image of the dataset.<br>
 <img src="images/cancer.png"/><br>
-***Link to work*** : [https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Logistic%20regression%20for%20breast%20cancer)
+***Link to work*** : [Logistic regression breast cancer dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Logistic%20regression%20for%20breast%20cancer)
+
+## Day 18
+### (2nd August 2018 IST 20:20)
+***Today's progress*** : Logistic regression data visualization with Iris dataset<br>
+***Thoughts*** : Today I worked on the same dataset to find a good classification problem. But it was again a failure. So I then found easiest datset for logistic regression of Iris petals from scikit learn library. I chose two classes (it has 50 records for each) with 100 records as a whole dataset. I used Matplotlib to visualize the dataset using scatter chart. And finally I successfully found a very good datsset. The decision boundary was clearly visible.<br>
+<img src="images/iris_logistic.png"/><br>
+***Link to work*** : [Logistic regression with Iris petal dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Logistic%20regression%20Iris)
