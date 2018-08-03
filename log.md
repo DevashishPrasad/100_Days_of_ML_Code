@@ -132,3 +132,9 @@ I found a good data set for logistic regression. I will create a binary classifi
 ***Thoughts*** : Today I worked on the same dataset to find a good classification problem. But it was again a failure. So I then found easiest datset for logistic regression of Iris petals from scikit learn library. I chose two classes (it has 50 records for each) with 100 records as a whole dataset. I used Matplotlib to visualize the dataset using scatter chart. And finally I successfully found a very good datsset. The decision boundary was clearly visible.<br>
 <img src="images/iris_logistic.png"/><br>
 ***Link to work*** : [Logistic regression with Iris petal dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Logistic%20regression%20Iris)
+
+## Day 19
+### (3rd August 2018 IST 23:25)
+***Today's progress*** : Logistic regression implementation on Iris dataset<br>
+***Thoughts*** : Today I worked on the same dataset and started the implementation of Logistic regression. I followed the formulae of Andrew NG and implemented them. Somehow, I have a calculation bug with weights in my program. I need to figure it out. Everything else like hypothesis function, cost function and gradient descent optimization formulae correctly. But still i will check everything once again.
+***Link to work*** : [Logistic regression with Iris petal dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/Logistic%20regression%20Iris/logistic.py)
