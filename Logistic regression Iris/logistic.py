@@ -6,11 +6,13 @@ from sklearn import datasets
 import matplotlib.pyplot as plt
 import numpy as np
 
+# hypothesis function
 def hypo(B, X):
     ht = X.dot(B)
     gt = 1/(1 + np.exp(-ht))
     return gt
 
+# cost function
 def cost(B, X, Y):
     gt = hypo(B, X)
     c = (-Y * np.log(gt) - (1 - Y) * np.log(1 - gt)).mean()
@@ -47,6 +49,7 @@ for i in range(steps):
     B = B - alpha * gradient
     print("Step : {} Cost : {}".format(i,c))
 
+# printing the weights
 print("B = ")
 print(B)
 
@@ -61,6 +64,7 @@ prediction = 1/(1 + np.exp(-hypo))
 
 print(prediction)
 
+# plotting the dataset
 plt.title("Iris Flower")
 plt.scatter(X[:, 1], X[:, 2], c=Y)
 plt.xlabel('Sepal length')
