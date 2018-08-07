@@ -144,3 +144,9 @@ I found a good data set for logistic regression. I will create a binary classifi
 ***Today's progress*** : Logistic regression finished<br>
 ***Thoughts*** : Today I finally figured out the bug. It was due to the bad shape of the array of outputs(Y). I used numpy reshape function to fix it. I trained the model for 30000 steps with learning rate 0.1. I also tested it on a sample value from the dataset and model predicts with a good accuracy.<br>
 ***Link to work*** : [Logistic regression with Iris petal finished](https://github.com/DevashishPrasad/100_Days_of_ML_Code/blob/master/Logistic%20regression%20Iris/logistic.py)
+
+## Day 21
+### (7th August 2018 IST 21:39)
+***Today's progress*** : Multiclass Logistic regression<br>
+***Thoughts*** : Today I started with multiclass logistic regression, I started the hour by watching siraj ravals logistic regression video. Then I saw Andrew NG's logistic regression video. I understood the algorithm theoretically. Then i searched a dataset for multi-class classification. I also visualized the iris dataset with 3 classes but the 3rd class was not clearly apart. So, to learn the algorithm i decided to use a good dataset. I found a dataset on UCI machine learning repositories with has 7 classes to classify type of glass. Tommorow i will start with the algorithm<br>
+***Link to work*** : [Multiclass Logistic regression dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Multi-class%20Logistic%20Regression)
