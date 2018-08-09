@@ -150,3 +150,14 @@ I found a good data set for logistic regression. I will create a binary classifi
 ***Today's progress*** : Multiclass Logistic regression<br>
 ***Thoughts*** : Today I started with multiclass logistic regression, I started the hour by watching siraj ravals logistic regression video. Then I saw Andrew NG's logistic regression video. I understood the algorithm theoretically. Then i searched a dataset for multi-class classification. I also visualized the iris dataset with 3 classes but the 3rd class was not clearly apart. So, to learn the algorithm i decided to use a good dataset. I found a dataset on UCI machine learning repositories with has 7 classes to classify type of glass. Tommorow i will start with the algorithm<br>
 ***Link to work*** : [Multiclass Logistic regression dataset](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/Multi-class%20Logistic%20Regression)
+
+## Day 22
+### (8th August 2018 IST 21:19)
+***Today's progress*** : Pickling<br>
+***Thoughts*** : Today I read a couple of articles about Pickling. I learnt how to use pickle package in python to save the state of program. pickle.dump() and pickle.load() ar the main methods to use pickle. Not much ML today.
+
+## Day 23
+### (9th August 2018 IST 21:19)
+***Today's progress*** : Softmax function<br>
+***Thoughts*** : Today I started with multi-class logistic regression also known as multinomial or softmax regression. Here, we have more than 2 classes and our job is to find probability of each class over an event. Softmax function is used to achieve this. It gives us the probabilities of every class. Today I read some articles and studied the therotical parts of the model.<br>
+
