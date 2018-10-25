@@ -30,8 +30,6 @@ y = np.asarray(df.Y)
 alpha = 0.0001
 iterations = 1000
 
-# y = mx + b
-
 m_current = 0
 b_current = 0
 

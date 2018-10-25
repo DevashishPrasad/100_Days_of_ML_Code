@@ -161,3 +161,18 @@ I found a good data set for logistic regression. I will create a binary classifi
 ***Today's progress*** : Softmax function<br>
 ***Thoughts*** : Today I started with multi-class logistic regression also known as multinomial or softmax regression. Here, we have more than 2 classes and our job is to find probability of each class over an event. Softmax function is used to achieve this. It gives us the probabilities of every class. Today I read some articles and studied the therotical parts of the model.<br>
 
+## Day 24
+### (24th October 2018 IST 19:00)
+***Today's progress*** : Towards Neural Networks<br>
+***Thoughts*** : Today I finally resumed my machine learning journey. Couple of months i was very busy in my under grad admission and new college life. I am now finally settled and back to my track. I am now trying to code my first neural network from scratch. I found 3 amazing articles written by Piotr Skalski on Medium.com (towards data science). The guy explained all about the neural networks very precisely. Here are the links - <br>
+[PART I](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba) <br>
+[PART II](https://towardsdatascience.com/preventing-deep-neural-network-from-overfitting-953458db800a) <br>
+[PART III](https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795) <br>
+I also made a python from his ipynb. I did not run it as I dont have confidence in my understanding of neural networks. I will be coding one from scratch. <br>
+***Link to work*** : [First Neural Network](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/First%20Neural%20Network)
+
+## Day 23
+### (25th October 2018 IST 22:00)
+***Today's progress*** : Andrew NG neural networks<br>
+***Thoughts*** : Today I started with Andrew NG Neural network series. He has many videos on neural networks. I completed 4-5 videos. I unterstood the basic working, conventions, idea and concept of mapping non linear function (complex) using neural networks.<br>
+
