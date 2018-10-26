@@ -171,8 +171,13 @@ I found a good data set for logistic regression. I will create a binary classifi
 I also made a python from his ipynb. I did not run it as I dont have confidence in my understanding of neural networks. I will be coding one from scratch. <br>
 ***Link to work*** : [First Neural Network](https://github.com/DevashishPrasad/100_Days_of_ML_Code/tree/master/First%20Neural%20Network)
 
-## Day 23
+## Day 25
 ### (25th October 2018 IST 22:00)
 ***Today's progress*** : Andrew NG neural networks<br>
 ***Thoughts*** : Today I started with Andrew NG Neural network series. He has many videos on neural networks. I completed 4-5 videos. I unterstood the basic working, conventions, idea and concept of mapping non linear function (complex) using neural networks.<br>
+
+## Day 26
+### (26th October 2018 IST 22:30)
+***Today's progress*** : Continued Andrew NG neural networks<br>
+***Thoughts*** : Today I continued Andrew NG Neural network series. He now started explaining the complex part of neral networks. I learnt how a neural network forward propagates. I also learnt about the Back propagation algorithm. I am not clear with back propagation yet but have a baasic understanding of what it is doing.<br>
 
